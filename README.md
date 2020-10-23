@@ -3,7 +3,6 @@ Knover is a toolkit for knowledge grounded dialogue generation based on PaddlePa
 
 ### What's New:
 
-- October 2020: The interactive demo of PLATO-2 in Chinese has been available on [Baidu UNIT](https://ai.baidu.com/unit/v2/static/socialbot). 
 - July 2020: We are opening [PLATO-2](plato-2/README.md), a large-scale generative model with latent space for open-domain dialogue systems.
 
 
